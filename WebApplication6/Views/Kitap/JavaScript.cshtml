@@ -1,0 +1,100 @@
+﻿@using WebApplication6.Models
+<script type="text/javascript">
+    $(function() {
+
+        //default değerlerini kapat buttonun submit olarak alıyo sürekli yoksa
+        $(document.body).on('click', 'button', function (e) {
+            e.preventDefault();
+        });
+
+        $("#KitapEkle").slideUp(500);
+        $("#KitapGoruntule").slideUp(500);
+
+        //Kitapliste sayfasında yazar güncelle
+        $(document.body).on('click', '#kitapGoruntuleBtn', function () {
+            debugger 
+            $("#KitapListe").slideUp(500);
+            var kitapid = $(this).closest("tr").children("#bookId").html();
+            $.post('@Url.Action("KitapGoruntule","Kitap")', { bookid: kitapid },function(data) {
+                $("#KitapGoruntule").html(data).delay(500).slideDown(500);
+            });
+        });
+
+        //Vazgeç butonu
+        $(document.body).on('click', '#kitapVazgec', function() {
+            $("#KitapGoruntule").slideUp(500);
+            $("#KitapEkle").slideUp(500);
+            $("#KitapListe").delay(500).slideDown(500);
+        });
+
+        //Kitap sil
+        $(document.body).on('click', '#kitapSilBtn', function () {
+            var row = $(this).closest("tr");
+            var bookid = $(row).children("#bookId").html();
+            $.post('@Url.Action("KitapSil","Kitap")',{ id: bookid },function() {
+                $(row).hide(500);
+                }).fail(function() {
+                    alert("Can not be erased");
+                });
+        });
+
+        //Yazar Ekle 
+        $(document.body).on('click', '#kitapEkleBtnMain', function() {
+            $("#KitapListe").slideUp(500);
+            $.post('@Url.Action("KitapEkle","Kitap")', function(data) {
+                $("#KitapEkle").html(data).delay(500).slideDown(500);
+            });
+        });
+
+        //Yazar Oluştur
+        $(document.body).on('click', '#kitapEkleBtn', function() {
+            if ($("#bookNameInp").val() =="")
+            {
+                alert("Please enter a book name");
+            }
+            else
+            {
+                var newBookName = $("#bookNameInp").val();
+                var newBookType = $("#bookTypeInp").val();
+                var newBookWriter = $("#bookWriterInp").val();
+                var writerinfo = $("#bookWriterInp option:selected").text();
+                $.post('@Url.Action("KitapOlustur","Kitap")',
+                    { name: newBookName, type: newBookType, writer: newBookWriter }, function (data) {
+                        if (data.Basari) {
+                            $.post('@Url.Action("KitapListele","Kitap")', function(data) {
+                                $("#KitapEkle").slideUp(500);
+                                $("#KitapListe").html(data).delay(500).slideDown(500);
+                            });
+                        }
+                        else
+                        {
+                            alert(newBookType+" book "+newBookName+" by "+writerinfo+" is already in the list with a book id "+data.Id);
+                        }
+                    });
+            }
+        });
+
+        //Güncelle buton
+        $(document.body).on('click', '#kitapDegistir', function () {
+            debugger 
+            var name = $("#changedName").val();
+            var type = $("#changedType").val();
+            var writer = $("#changedWriter").val();
+            var writ = $("#changedWriter option:selected").text();
+            var id = $("#changedId").val();
+            $.post('@Url.Action("KitapGuncelle","Kitap")', { name: name, type: type, writer: writer, id:id }, function(data) {
+                if (data.Basari)
+                {
+                    $("#KitapGoruntule").slideUp(500);
+                    $.post('@Url.Action("KitapListele","Kitap")', function(data) {
+                        $("#KitapListe").html(data).delay(500).slideDown(500);
+                    });
+                }
+                else
+                {
+                    alert(type+" book "+name+" by "+writ+" is already in the list with an book id "+data.Id);
+                }
+            });
+        });
+    });
+</script>

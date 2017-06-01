@@ -1,0 +1,374 @@
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\ApplicationInsights.config
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\csc.exe
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebApplication6.pdb
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.Web.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Newtonsoft.Json.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.Helpers.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.Mvc.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.Razor.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.WebPages.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\WebGrease.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.Web.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.Helpers.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.Mvc.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.Optimization.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.Razor.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.WebPages.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Antlr3.Runtime.pdb
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\bin\Newtonsoft.Json.xml
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+c:\users\ea\documents\visual studio 2015\Projects\WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\ApplicationInsights.config
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.exe
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.Helpers.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.Mvc.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.Razor.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\WebGrease.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.Helpers.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.Mvc.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.Optimization.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.Razor.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\EA\OneDrive\Log\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\ApplicationInsights.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.rsp
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\csi.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\csi.rsp
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.AppContext.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.rsp
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.Helpers.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.Mvc.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.Razor.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\WebGrease.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.Helpers.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.Mvc.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.Optimization.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.Razor.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\EA\Documents\Visual Studio 2015\Projects\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\ApplicationInsights.config
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.exe
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.exe.config
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.rsp
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csi.exe
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csi.rsp
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.AppContext.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.exe.config
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.rsp
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Helpers.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Mvc.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Razor.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\WebGrease.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Helpers.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Mvc.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Optimization.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Razor.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\EA\Desktop\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\ApplicationInsights.config
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.exe
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.exe.config
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csc.rsp
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csi.exe
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\csi.rsp
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.AppContext.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.exe.config
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\vbc.rsp
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\WebApplication6.pdb
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Helpers.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Mvc.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Optimization.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Razor.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\WebGrease.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Helpers.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Mvc.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Optimization.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.Razor.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\efear\Desktop\16.12.29WebApplication6\WebApplication6\obj\Debug\WebApplication6.pdb
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\ApplicationInsights.config
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\csc.exe
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\csc.exe.config
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\csc.rsp
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\csi.exe
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\csi.rsp
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\System.AppContext.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\vbc.exe
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\vbc.exe.config
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\vbc.rsp
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\VBCSCompiler.exe
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\WebApplication6.dll.config
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\WebApplication6.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\WebApplication6.pdb
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Antlr3.Runtime.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.Web.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.ApplicationInsights.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Newtonsoft.Json.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.Helpers.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.Mvc.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.Optimization.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.Razor.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.WebPages.Deployment.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.WebPages.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.WebPages.Razor.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\WebGrease.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Antlr3.Runtime.pdb
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.Web.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.ApplicationInsights.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\Newtonsoft.Json.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.Helpers.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.Mvc.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.Optimization.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.Razor.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.WebPages.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.WebPages.Deployment.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\bin\System.Web.WebPages.Razor.xml
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\obj\Debug\WebApplication6.csprojResolveAssemblyReference.cache
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\obj\Debug\WebApplication6.dll
+C:\Users\efear\Dropbox\Portfolio\Simple WebApplication\WebApplication6\obj\Debug\WebApplication6.pdb

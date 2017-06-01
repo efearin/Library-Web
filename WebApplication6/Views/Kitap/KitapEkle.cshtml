@@ -1,0 +1,26 @@
+﻿@using WebApplication6.Models
+<div>
+    <form>
+        <p>Book Name <input id="bookNameInp" /> </p>
+        <p>
+            Book Type
+            <select id="bookTypeInp">
+                <option value="Horror">Horror</option>
+                <option value="Criminal">Criminal</option>
+            </select>
+        </p>
+        <p>
+            Book Writer
+            <select id="bookWriterInp">
+                @{
+                    foreach (var m in DataModel.yazarModel)
+                    {
+                        <option value="@m.Id">@m.Name from @m.Nation with id @m.Id</option>
+                    }
+                }
+            </select>
+        </p>
+        <p> <button id="kitapEkleBtn" style="color: blue">Add</button> <button id="kitapVazgec" style="color: blue">Cancel</button> </p>
+    </form>
+</div>
+

@@ -1,0 +1,27 @@
+﻿@model List<WebApplication6.Models.Yazar>
+    
+<div>
+    <table>
+        <thead>
+        <tr>
+            <th style="color:red">ID</th>
+            <th style="color: red">NAME</th>
+            <th style="color: red">NATION</th>
+            <th><button style="color:blue" id="yazarEkleBtn">Add Writer</button></th>
+            <th><button style="color: brown" onclick="location.href='/';">LIST BOOKS</button></th>
+        </tr>
+        </thead>
+        <tbody>
+        @foreach (var m in Model)
+        {
+            <tr>
+                <td id="id">@m.Id</td>
+                <td id="name">@m.Name</td>
+                <td id="nation">@m.Nation</td>
+                <td><button style="color: blue" id="goruntuleBtn">Update</button></td>
+                <td><button style="color: blue" id="silBtn">Delete</button></td>
+            </tr>
+        }
+        </tbody>
+    </table>
+</div>

@@ -1,0 +1,109 @@
+﻿@using WebApplication6.Models
+<script type="text/javascript">
+    $(function () {
+
+        //default değerlerini kapat buttonun submit olarak alıyo sürekli yoksa
+        $(document.body).on('click', 'button', function (e) {
+            e.preventDefault();
+        });
+
+        //açılışta ilk ekle ve görüntüleyi kapat listeleyi aç
+        $("#Goruntule").slideUp();
+        $("#Ekle").slideUp();
+
+        //listelede yazar ekle sayfasına git
+        $(document.body).on('click', '#yazarEkleBtn', function() {
+            $("#Liste").delay(500).slideUp(500);
+            $.post("@Url.Action("Ekle","Yazar")",function (data) {
+                $("#Ekle").html(data).delay(500).slideDown(500);
+            });
+        });
+
+        //yazar ekle sayfasında ekle de
+        $(document.body).on('click', "#olusturBtn", function () {
+            var nameEntered = $("#nameInp").val();
+            var nationEntered = $("#nationInp").val();
+            if (nameEntered == "")
+            {
+                alert("Please enter a name");
+            }
+            else
+            {
+                $.post('@Url.Action("Olustur","Yazar")', { name: nameEntered, nation: nationEntered }, function (data1) {
+                    if (data1.Basari)
+                    {
+                        $("#Ekle").slideUp(500);
+                        $.post('@Url.Action("Listele","Yazar")', function (data) {
+                            $("#Liste").html(data).delay(500).slideDown(500);
+                        });
+                    }
+                    else
+                    {
+                        alert(data1.Name+" from "+data1.Nation+" is already in the list with an id "+data1.Id);
+                    }
+                });
+            }
+        });
+
+        //listele sayfasında goruntuleye git
+        $(document.body).on('click',"#goruntuleBtn", function () {
+            $("#Liste").slideUp(500);
+            var id = $(this).closest("tr").children("#id").html();
+            $.post('@Url.Action("Goruntule","Yazar")',
+                { id: id },
+                function(data) {
+                    $("#Goruntule").html(data).delay(500).slideDown(500);
+                });
+        });
+
+        //yazar ekle ve görüntüle sayfalarından işlemsiz listeye dön
+        $(document.body).on('click', '#vazgecBtn', function () {
+            $("#Ekle").slideUp(500);
+            $("#Goruntule").slideUp(500);
+            $("#Liste").delay(500).slideDown(500);
+        });
+
+        //listele sayfasında sil
+        $(document.body).on('click', '#silBtn', function () {
+            var row = $(this).closest("tr");
+            var id = $(this).closest("tr").children("#id").html();
+            if (confirm("If any all books related to writer will be deleted.")) {
+                $.post('@Url.Action("Sil","Yazar")',
+                    { id: id },
+                    function () {
+                        $(row).hide(500);
+                    }).fail(function () {
+                        alert("Can not be erased");
+                    });
+            }
+        });
+
+        //görüntüle sayfasında bilgileri güncelle butonu
+        $(document.body).on('click', '#degistirBtn', function () {
+            var name = $("#degistirInp").val();
+            var id = $("#ID").val();
+            var nat = $("#degistirNation").val();
+            if (name == "")
+            {
+                alert("Please enter a name");
+            }
+            else
+            {
+                $.post('@Url.Action("Degistir","Yazar")', { id: id, name: name, nation: nat }, function (data1) {
+                    if (data1.Basari)
+                    {
+                        $("#Goruntule").slideUp(500);
+                        $.post('@Url.Action("Listele","Yazar")', function (data) {
+                            $("#Liste").html(data).delay(500).slideDown(500);
+                        });
+                    }
+                    else
+                    {
+                        alert(data1.Name+" from "+data1.Nation+" is already in the list with an id "+data1.Id);
+                    }
+                });
+            }
+        });
+
+    });
+</script>

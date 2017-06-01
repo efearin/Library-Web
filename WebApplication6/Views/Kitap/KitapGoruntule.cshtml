@@ -1,0 +1,44 @@
+﻿@model WebApplication6.Models.Kitap
+@using WebApplication6.Models
+    
+<div>
+    <form>
+        <p>Book ID <input id="changedId" value="@Model.KitapId" readonly="readonly"/> </p>
+        <p>Book Name<input id="changedName" value="@Model.KitapAdi"/></p>
+        <p>Book Type
+            @if (Model.KitapTuru == "Criminal")
+            {
+                <select id="changedType" >
+                    <option value="Criminal" selected="selected">Criminal</option>
+                    <option value="Horror">Horror</option>
+                </select>
+            }
+            else
+            {
+                <select id="changedType">
+                    <option value="Criminal" >Criminal</option>
+                    <option value="Horror" selected="selected" >Horror</option>
+                </select>
+            }
+        </p>
+        <p>Writer Info 
+            <select id="changedWriter">
+                @{
+                    foreach (var m in DataModel.yazarModel)
+                    {
+                        if (Model.YazarId == m.Id)
+                        {
+                            <option selected="selected" value="@m.Id"> @m.Name from @m.Nation with id @m.Id </option>
+                        }
+                        else
+                        {
+                            <option value="@m.Id"> @m.Name from @m.Nation with id @m.Id </option>
+                        }
+                    }
+                }
+            </select>
+        </p>
+        <p> <button id="kitapDegistir" style="color: blue">Change</button> <button id="kitapVazgec" style="color: blue">Cancel</button> </p>
+
+    </form>
+</div>

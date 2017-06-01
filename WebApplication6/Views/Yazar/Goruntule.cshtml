@@ -1,0 +1,31 @@
+﻿@model WebApplication6.Models.Yazar
+    
+<div  >
+    <form>
+        <p>Id <input value="@Model.Id" id="ID" readonly="readonly"/>
+        </p>
+        <p>Name <input id="degistirInp" value="@Model.Name"/>
+        </p>
+        <p> Nation
+            @{
+                if (Model.Nation == "USA")
+                {
+                    <select id="degistirNation">
+                        <option value="TC" >TC</option>
+                        <option value="USA" selected="selected">USA</option>
+                    </select>
+                }
+                else
+                {
+                    <select id="degistirNation">
+                        <option value="TC" selected="selected">TC</option>
+                        <option value="USA">USA</option>
+                    </select>
+                }
+            }
+            
+        </p>
+        <p><button id="degistirBtn" style="color: blue">Change</button><button id="vazgecBtn" style="color: blue">Cancel</button>
+        </p>
+    </form>
+</div>
